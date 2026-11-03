@@ -1,0 +1,4 @@
+[mapping:llm]
+archive: libmain.a
+entries:
+    llm (noflash)
